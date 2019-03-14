@@ -1,5 +1,5 @@
-# Get Started with DITA
+# Get Started with DITA - Piano Tuning Example
 
-Fork this repository to get started using DITA. 
+This repository was forked as an example to get started using DITA. 
 
-The repository has example concept, task, and reference topics, as well as a DITA Map.
+The repository has an example concept, task, and reference topics, as well as a DITA Map.
