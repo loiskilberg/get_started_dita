@@ -9,7 +9,7 @@
   <title>References for Piano Tuning</title>
   <shortdesc>You may find these references useful for chord progressions and tuning schemes.</shortdesc>
   <refbody>
-    <section id="chord progressions">
+    <section id="chordProgressions">
       <title>Chord Progressions to Check Tuning</title>
       <p>Major triad such as C-E-G</p>
       <p>Minor triad such as C-D#-G</p>
@@ -17,9 +17,10 @@
       <p>Move up the chromatic scale and repeat the chord progression. Listen to make sure everything is about 
         equally well-tuned.</p>
     </section>
-    <section id="tuning schemes">
+    <section id="tuningSchemes">
       <title>Tuning Schemes</title>
-      <p>Tune everything just slightly less than a perfect interval.</p>
+      <p>Tune everything just slightly less than a perfect interval, and tune all fourths
+          just slightly more than a perfect interval.</p>
       <p>Other tuning schemes maximize the sound for a particular key. You can research this further.</p>
     </section>
   </refbody>
