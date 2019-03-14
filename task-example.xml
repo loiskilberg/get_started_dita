@@ -7,7 +7,7 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
+<task id="tuneOctaves" xml:lang="en-us">
   <title>Tuning Each Octave</title>
   <shortdesc>Tune the piano an octave at a time, starting with Middle C, working toward the right,
     the working down to the left.</shortdesc>
@@ -77,6 +77,8 @@
       </step>
       <step>Play a favorite piece, preferably one that uses many parts of the keyboard. Adjust anything
           that sounds funny. When you are done, enjoy the well-tuned piano!!
+      </step>
+      <step>Replace anything in the piano that you had taken apart.
       </step>
     </steps>
   </taskbody>
