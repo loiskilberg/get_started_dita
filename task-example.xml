@@ -10,15 +10,15 @@
 <task id="tuneOctaves" xml:lang="en-us">
   <title>Tuning Each Octave</title>
   <shortdesc>Tune the piano an octave at a time, starting with Middle C, working toward the right,
-    the working down to the left.</shortdesc>
+    then working down to the left.</shortdesc>
   <taskbody>
     <context>
       <p>Some notes on the piano are sounded by three strings, some by two strings, and some by only one string. 
-          You'll need to dampen any strings that would sound when you press a key that you are not actively tuning.</p>
+          You'll need to dampen enough strings for the note you are working on so that you hear only hear only the 
+            middle string to start with.</p>
       <p>Also be careful not to damage anything. This document does not cover repairs.</p>
     </context>
     <steps>
-     <stepsection>Be able to access the tuning pegs and strings.</stepsection>
       <step>
         <cmd>Remove anything that is in the way of reaching the tuning pegs and strings.</cmd>
       </step>
@@ -28,57 +28,64 @@
       <step>
         <cmd>Check that you can insert the dampening wedges in the strings.</cmd>
       </step>
-     <stepsection>Tune the first octave.</stepsection>
-      <step>Dampen the outer strings for Middle C.
+      <step>
+        <cmd>Dampen the outer strings for Middle C.</cmd>
       </step>
-      <step>Insert the tuning fork onto the middle string peg for Middle C.
+      <step>
+        <cmd>Insert the tuning hammer onto the middle string peg for Middle C.</cmd>
       </step>
-      <step>Strike the tuning fork and rest it on a wooden part of the piano to make it resonate more.
+      <step>
+        <cmd>Strike the tuning fork and rest it on a wooden part of the piano to make it resonate more.</cmd>
       </step>
-      <step>Press the Middle C key repeatedly as necessary and turn the tuning hammer until the piano sound
+      <step>
+        <cmd>Press the Middle C key repeatedly as necessary and turn the tuning hammer until the piano sound
           matches the tuning fork sound. Try to start with the piano pitch being slightly too low, then tighten
-          it. Listen for overtones to converge.
+          it. Listen for overtones to converge.</cmd>
       </step>
-      <step>Repeat for the octave above Middle C.
+      <step>
+        <cmd>Repeat for the octave above Middle C.</cmd>
       </step>
-      <step>Remove one dampening wedge for Middle C.
+      <step>
+        <cmd>Remove one dampening wedge for Middle C.</cmd>
       </step>
-      <step>Place the tuning hammer on the corresponding string that was undampened.
+      <step>
+        <cmd>Place the tuning hammer on the corresponding string that was undampened.</cmd>
       </step>
-      <step>Press the piano key repeatedly and match the pitch of the second string to the first one.
+      <step>
+        <cmd>Press the piano key repeatedly and match the pitch of the second string to the first one.</cmd>
       </step>
-      <step>Remove the other dampening wedge for Middle C.
+      <step>
+        <cmd>Remove the other dampening wedge for Middle C.</cmd>
       </step>
-      <step>Place the tuning hammer on the corresponding string that was undampened.
+      <step><cmd>Place the tuning hammer on the corresponding string that was undampened.</cmd>
       </step>
-      <step>Press the piano key repeatedly and match the pitch of the third string to the first one.
+      <step><cmd>Press the piano key repeatedly and match the pitch of the third string to the first one.</cmd>
       </step>
-      <step>Repeat for the octave above Middle C.
+      <step><cmd>Repeat for the octave above Middle C.</cmd>
       </step>
-      <step>Similarly, tune "G" (a fifth above Middle C) while sounding both "C" and "G" 
-          to match the overtones. Then lower it very slightly.
+      <step><cmd>Similarly, tune G (a fifth above Middle C) while sounding both C and G 
+          to match the overtones. Then lower it very slightly.</cmd>
       </step>
-      <step>Then tune "D" above Middle C while sounding "G". You will tune this as a fourth rather than a fifth.
+      <step><cmd>Then tune D above Middle C while sounding G. You will tune this as a fourth rather than a fifth.</cmd>
       </step>
-      <step>Similarly, tune in sequence: "A" with "D", "E" with "A", "B" with "E", "F#" with "B",
-          "C#" with "F#", "G#" with "C#", "D#" with "G#", "A#" with "D#", "F" with "D#".
+      <step><cmd>Similarly, tune in sequence: A with D, E with A, B with E, F# with B,
+          C# with F#, G# with C#, D# with G#, A# with D#, F with D#.</cmd>
       </step>
-      <step>Play a scale progression that uses major, minor, and other chord combinations for each note of the
-          octave. Make sure everything sounds okay, making adjustments where needed.
+      <step><cmd>Play a scale progression that uses major, minor, and other chord combinations for each note of the
+          octave. Make sure everything sounds okay, making adjustments where needed.</cmd>
       </step>
-     <stepsection>Tune the other octaves.</stepsection>
-      <step>Tune the next octave up by matching in sequence: "C"s, "C#"s, "D"s, and so on.
+      <step><cmd>Tune the next octave up by matching in sequence: Cs, C#s, Ds, and so on.</cmd>
       </step>
-      <step>Tune all the octaves going to the right until you reach the end of the keyboard.
+      <step><cmd>Tune all the octaves going to the right until you reach the end of the keyboard.</cmd>
       </step>
-      <step>Start back at Middle C and work downward in sequence: "C"s, "B"s, "A#"s, and so on.
+      <step><cmd>Start back at Middle C and work downward in sequence: Cs, Bs, A#s, and so on.</cmd>
       </step>
-      <step>Tune all the octaves going to the left until you reach the end of the keyboard.
+      <step><cmd>Tune all the octaves going to the left until you reach the end of the keyboard.</cmd>
       </step>
-      <step>Play a favorite piece, preferably one that uses many parts of the keyboard. Adjust anything
-          that sounds funny. When you are done, enjoy the well-tuned piano!!
+      <step>P<cmd>lay a favorite piece, preferably one that uses many parts of the keyboard. Adjust anything
+          that sounds funny. When you are done, enjoy the well-tuned piano!!</cmd>
       </step>
-      <step>Replace anything in the piano that you had taken apart.
+      <step><cmd>Replace anything in the piano that you had taken apart.</cmd>
       </step>
     </steps>
   </taskbody>
