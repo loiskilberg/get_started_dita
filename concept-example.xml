@@ -9,7 +9,7 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Tuning a Piano</title>
+  <title>Tuning a Piano Introduction</title>
   <shortdesc>You can tune a piano with just a few pieces of equipment.</shortdesc>
   <conbody>
     <p>You'll need to listen to overtones and understand octaves and chords.</p>
@@ -25,7 +25,7 @@
             <li>your ear</li>
             <li>a tuning hammer</li>
             <li>four dampening wedges</li>
-            <li>a tuning fork for "C" unless you have perfect pitch</li>
+            <li>a tuning fork for C unless you have perfect pitch</li>
        </ul></p>
   </conbody>
 </concept>
