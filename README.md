@@ -1,5 +1,5 @@
-# Get Started with DITA
+# Get Started with DITA - Mounting and Matting Art
 
-Fork this repository to get started using DITA. 
-
-The repository has example concept, task, and reference topics, as well as a DITA Map.
+Status:
+3/18/2019 @8:30am. Copied these files to my local computer.
+  I plan to edit them in oXygen to become content about Mounting and Matting Art.
