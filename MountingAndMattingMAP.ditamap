@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Mounting and Matting Art</title>
+    <topicref href="MountAndMat-CONCEPTS.dita"/>
+    <topicref href="MountingAndMatting-TASKS.dita"/>
+    <topicref href="MountingAndMatting-REFERENCE.dita"/> 
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reusablePhrases">
+    <title>Reusable Phrases</title>
+    <body>
+        <p><text id="phraseFrameSizeMeaning">            
+            The <text conref="termsUsed.dita#reusableTerms/termFrameSize"/>
+            is not the physical size of the frame, but rather the 
+            size of the recessed area on the back of the frame where the contents will be placed.
+        </text>
+        </p>
+    </body>
+</topic>

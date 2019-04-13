@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="reusableTerms">
+    <title>Reusable Terms</title>
+    <body>
+        <p><text id="termBackground">background media</text></p>
+        <p><text id="termBevelCutter">bevel cutter</text></p>
+        <p><text id="termWindowBorder">border</text></p>
+        <p><text id="termWindowBorderCAP">Border</text></p>
+        <p><text id="termCustomer">customer</text></p>
+        <p><text id="termFrameSize">frame size</text></p>
+        <p><text id="termFrameSizeCAP">Frame Size</text></p>
+        <p><text id="termMatboard">matboard</text></p>
+        <p><text id="termMatboardCAP">Matboard</text></p>
+        <p><text id="termMatCutter">mat cutter equipment</text></p>
+        <p><text id="termMountingBoard">mounting board</text></p>
+        <p><text id="termMountingBoardCAP">Mounting Board</text></p>
+        <p><text id="termSandwich">"sandwich"</text></p>
+        <p><text id="termStraightCutter">straight cutter</text></p>
+        <p><text id="termTape">acid-free linen hinge tape</text></p>
+        <p><text id="termWindowMat">window mat</text></p>
+        <p><text id="termWindowMatCAP">Window Mat</text></p>
+    </body>
+</topic>

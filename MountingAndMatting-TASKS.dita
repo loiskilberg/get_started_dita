@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Untitled">
+    <title>Mounting and Matting Procedures</title>
+    <shortdesc>You can cut your own <text conref="termsUsed.dita#reusableTerms/termMountingBoard"/>s
+        and <text conref="termsUsed.dita#reusableTerms/termWindowMat"/>s, or you can buy them
+        already cut and then attach them to the art.</shortdesc>
+    <taskbody>
+        <context>
+            <p>To mount and mat a piece of art, you will attach it between a <text
+                    conref="termsUsed.dita#reusableTerms/termWindowMat"/> and a <text
+                    conref="termsUsed.dita#reusableTerms/termMountingBoard"/>.</p>
+            <p>
+                <fig id="fig_bj4_p3y_fhb">
+                    <title>Close-Up of Mounted and Matted Art</title>
+                    <image href="images/closeUp.png" id="image_dj4_p3y_fhb" width="400">
+                        <alt>close-up of matted art</alt>
+                    </image>
+                </fig>
+            </p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Decide on the outer dimensions of the <text
+                        conref="termsUsed.dita#reusableTerms/termMountingBoard"/> and <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/>, which will match the
+                        <text conref="termsUsed.dita#reusableTerms/termFrameSize"/>. This decision
+                    affects the <text conref="termsUsed.dita#reusableTerms/termWindowBorder"/>
+                    width.</cmd>
+            </step>
+            <step>
+                <cmd>Make sure the art will look just right within the inner <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/> area.</cmd>
+            </step>
+            <step>
+                <cmd>Make sure the entire piece of art, including its <text
+                        conref="termsUsed.dita#reusableTerms/termBackground"/>, will be less than
+                    the <text conref="termsUsed.dita#reusableTerms/termFrameSize"/> so that you will
+                    have room to attach tape to secure it.</cmd>
+            </step>
+            <step>
+                <cmd>Confirm the <text conref="termsUsed.dita#reusableTerms/termFrameSize"/>, <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/> color, and the <text
+                        conref="termsUsed.dita#reusableTerms/termWindowBorder"/> width with the
+                        <text conref="termsUsed.dita#reusableTerms/termCustomer"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Either gather your precut <text
+                        conref="termsUsed.dita#reusableTerms/termMountingBoard"/> and <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/> or prepare to cut your
+                    own. If you are using precut mats, skip the rest of this step.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Gather a piece of <text
+                                conref="termsUsed.dita#reusableTerms/termMatboard"/> that is large
+                            enough to cut two mats. The areas to be cut should be defect-free. The
+                            color of the <text
+                                conref="termsUsed.dita#reusableTerms/termMountingBoard"/> is usually
+                            not important, since it will be hidden from view.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>On the back of the large piece of <text
+                                conref="termsUsed.dita#reusableTerms/termMatboard"/>, mark the outer
+                            cut lines in pencil for two mats at the desired <text
+                                conref="termsUsed.dita#reusableTerms/termFrameSize"/>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Set up your <text conref="termsUsed.dita#reusableTerms/termMatCutter"/>
+                            on a large flat sturdy surface with plenty of space for you to move
+                            around it. Keep all sharp items in a safe place while they are not being
+                            used.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Using the <text
+                                conref="termsUsed.dita#reusableTerms/termStraightCutter"/>, cut the
+                            outer edges of the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/> and the <text
+                                conref="termsUsed.dita#reusableTerms/termMountingBoard"/>.</cmd>
+                        <info>Use a fresh blade in the <text
+                                conref="termsUsed.dita#reusableTerms/termStraightCutter"/> to start
+                            this project, since that is a key element to a quality cut.<hazardstatement>
+                                <messagepanel id="messagepanel_l43_psf_ghb">
+                                    <typeofhazard>Sharp blades!</typeofhazard>
+                                    <howtoavoid>Be extremely careful when handling blades. It is
+                                        easy to seriously cut yourself. Keep emergency medical
+                                        supplies on hand.</howtoavoid>
+                                    <howtoavoid>Dispose of used blades in a safe manner so that no
+                                        one handling the trash will be injured.</howtoavoid>
+                                </messagepanel>
+                            </hazardstatement></info>
+                    </substep>
+                    <substep>
+                        <cmd>On the back of the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/>, mark pencil
+                            lines from edge to edge where the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowBorder"/>s will
+                            be.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Set up the <text conref="termsUsed.dita#reusableTerms/termMatCutter"/>
+                            to cut a bevel cut.
+                            Use a fresh blade in the <text
+                                conref="termsUsed.dita#reusableTerms/termBevelCutter"/> to start
+                            this project, since that is a key element to a quality cut. The quality
+                            of this cut is more important than the quality of the outer cut.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/>
+                            face down into the <text
+                                conref="termsUsed.dita#reusableTerms/termMatCutter"/> so that you
+                            can see the pencil lines.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Line up the pencil lines with the straight guide of the <text
+                                conref="termsUsed.dita#reusableTerms/termMatCutter"/>. </cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Align the <text conref="termsUsed.dita#reusableTerms/termBevelCutter"
+                            />'s guideline to the start of the border line.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>If your <text conref="termsUsed.dita#reusableTerms/termBevelCutter"/>
+                            has a button to lock in the position, press it down.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Holding the board securely in place, pull the <text
+                                conref="termsUsed.dita#reusableTerms/termBevelCutter"/> in a firm,
+                            continuous motion to create the cut until the <text
+                                conref="termsUsed.dita#reusableTerms/termBevelCutter"/>'s guideline
+                            reachs the end of the border line.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove the <text conref="termsUsed.dita#reusableTerms/termBevelCutter"
+                            />.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Repeat to cut the remaining three border lines.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Remove the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/>
+                            and inspect it carefully for quality.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>You will have a leftover piece of <text
+                                conref="termsUsed.dita#reusableTerms/termMatboard"/> where there is
+                            now a window. You can save the leftover piece to use in future
+                            projects.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>On the back of the art, very lightly mark an up arrow close to the edge in
+                    pencil to remind you which side is the top of the art.</cmd>
+            </step>
+            <step>
+                <cmd>Position the art on the <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/> as follows:</cmd>
+                <substeps id="substeps_fyh_w4f_ghb">
+                    <substep>
+                        <cmd>Check to see whether the art is perfectly centered on its <text
+                                conref="termsUsed.dita#reusableTerms/termBackground"/> and that the
+                                <text conref="termsUsed.dita#reusableTerms/termWindowMat"/> borders
+                            are symmetrical. If both conditions are met, you can follow these steps
+                            to attach the art to the back of the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/>. Otherwise,
+                            you will need to figure out how to hold the art in the desired position
+                            on the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/> while
+                            you attach the tape.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>On the back of the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/>, lightly mark
+                            the center of each side in pencil. Then draw vertical lines and
+                            horizontal lines from edge to edge to divide the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/> into equal
+                            sections.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>On the back of the art, lightly mark the center of each side in pencil
+                            at the very edge of the art <text
+                                conref="termsUsed.dita#reusableTerms/termBackground"/>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place the art face down on the back of the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/>.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Match the centered pencil marks on the art to the centered pencil lines
+                            on the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/>. Hold
+                            this position while you tape the art in the next step.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Attach the art to the back of the <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/> in a way that
+                    minimizes contact with the art <text
+                        conref="termsUsed.dita#reusableTerms/termBackground"/>. This will reduce any
+                    damage to the art and make it easy to change out the mat at a later date. Attach
+                    the art in only a few places to allow opportunity for the <text
+                        conref="termsUsed.dita#reusableTerms/termBackground"/> to expand and
+                    contract without causing the <text
+                        conref="termsUsed.dita#reusableTerms/termBackground"/> to warp. To attach
+                    the art:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Place a small amount of <text
+                                conref="termsUsed.dita#reusableTerms/termTape"/> at the top edge of
+                            the art in a couple places to secure it to the <text
+                                conref="termsUsed.dita#reusableTerms/termWindowMat"/>. For larger
+                                <text conref="termsUsed.dita#reusableTerms/termFrameSize"/>s, you
+                            may need to attach more tape in more spots along the top.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place a small amount of <text
+                                conref="termsUsed.dita#reusableTerms/termTape"/> at the left and
+                            right sides of the art near the edge in order to secure it on the sides
+                            of the <text conref="termsUsed.dita#reusableTerms/termWindowMat"
+                            />.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Double-check to make sure the art is still positioned as desired.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Add a couple more small amounts of tape on the left and right
+                            sides.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Leave the bottom edge untaped.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Cut slightly larger pieces of <text
+                                conref="termsUsed.dita#reusableTerms/termTape"/> to cover each
+                            previously taped area. Attach these pieces in a way that adds security
+                            over the original tape without touching any of the art.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Connect the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/> to the
+                        <text conref="termsUsed.dita#reusableTerms/termMountingBoard"/>:</cmd>
+                <substeps id="substeps_wdk_xqf_ghb">
+                    <substep>
+                        <cmd>Place the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/>
+                            face down.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place the <text conref="termsUsed.dita#reusableTerms/termMountingBoard"
+                            /> face down.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Position them to touch all along their top edges.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Place three or more pieces of <text
+                                conref="termsUsed.dita#reusableTerms/termTape"/> on the seam to
+                            connect the mat pieces at the top on their back sides.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Fold the <text conref="termsUsed.dita#reusableTerms/termMountingBoard"/> back
+                    behind the <text conref="termsUsed.dita#reusableTerms/termWindowMat"/> to form a
+                    type of <text conref="termsUsed.dita#reusableTerms/termSandwich"/>, with the art
+                    now positioned between the <text
+                        conref="termsUsed.dita#reusableTerms/termWindowMat"/> and the <text
+                        conref="termsUsed.dita#reusableTerms/termMountingBoard"/>.</cmd>
+            </step>
+            <step>
+                <cmd>Now you are ready to protect the art further by one of these methods:</cmd>
+                <choices id="choices_hcq_hrf_ghb">
+                    <choice>Placing the <text conref="termsUsed.dita#reusableTerms/termSandwich"/>
+                        in a frame.</choice>
+                    <choice>Placing the <text conref="termsUsed.dita#reusableTerms/termSandwich"/>
+                        in a slightly larger plastic sleeve.</choice>
+                    <choice>Placing the <text conref="termsUsed.dita#reusableTerms/termSandwich"/>
+                        into shrink wrap.</choice>
+                </choices>
+            </step>
+            <step>
+                <cmd>Enjoy your newly protected art, which is ready to be displayed, stored, or
+                    delivered!</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
