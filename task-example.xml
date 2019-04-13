@@ -7,34 +7,80 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+<task id="tuneOctaves" xml:lang="en-us">
+  <title>Tuning Each Octave</title>
+  <shortdesc>Tune the piano an octave at a time, starting with Middle C, working toward the right,
+    then working down to the left.</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
-        months.</p>
+      <p>Some notes on the piano are sounded by three strings, some by two strings, and some by only one string. 
+          You'll need to dampen enough strings for the note you are working on so that you hear only the 
+            middle string to start with.</p>
+      <p>Also be careful not to damage anything. This document does not cover repairs.</p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Remove anything that is in the way of getting to the tuning pegs and strings.</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>Check that you can insert the tuning hammer onto the pegs.</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>Check that you can insert the dampening wedges in the strings.</cmd>
       </step>
       <step>
-        <cmd>Add new oil to the engine.</cmd>
+        <cmd>Dampen the outer strings for Middle C.</cmd>
       </step>
       <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
+        <cmd>Insert the tuning hammer onto the middle string peg for Middle C.</cmd>
       </step>
       <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Strike the tuning fork and rest it on a wooden part of the piano to make it resonate more.</cmd>
+      </step>
+      <step>
+        <cmd>Press the Middle C key repeatedly as necessary and turn the tuning hammer until the piano sound
+          matches the tuning fork sound. Try to start with the piano pitch being slightly too low, then tighten
+          it. Listen for overtones to converge.</cmd>
+      </step>
+      <step>
+        <cmd>Similarly tune one string for the octave above Middle C to match Middle C in overtones exactly.</cmd>
+      </step>
+      <step>
+        <cmd>Remove one dampening wedge for Middle C.</cmd>
+      </step>
+      <step>
+        <cmd>Place the tuning hammer on the corresponding string that was undampened.</cmd>
+      </step>
+      <step>
+        <cmd>Press the piano key repeatedly and match the pitch of the second string to the first one.</cmd>
+      </step>
+      <step><cmd>Remove the other dampening wedge for Middle C.</cmd>
+      </step>
+      <step><cmd>Place the tuning hammer on the corresponding string that was undampened.</cmd>
+      </step>
+      <step><cmd>Press the piano key repeatedly and match the pitch of the third string to the first one.</cmd>
+      </step>
+      <step><cmd>Repeat for the octave above Middle C.</cmd>
+      </step>
+      <step><cmd>Similarly, tune G (a fifth above Middle C) while sounding both C and G to match the
+        overtones. Then lower it very slightly and do this for any fifth that you tune.</cmd> </step>
+      <step><cmd>Then tune D above Middle C while sounding G. You will tune this as a fourth rather than
+        a fifth. Raise the D pitch very slightly and do this for any fourth that you tune.</cmd> </step>
+      <step><cmd>Similarly, tune in sequence all within the same octave: A with D, E with A, B with E, F# with B, C# with F#, A♭
+        with D♭, E♭ with A♭, B♭ with E♭, F with B♭.</cmd></step>
+      <step><cmd>Play a scale progression that uses major, minor, and other chord combinations for each note of the
+        octave. Make sure everything sounds okay, making adjustments where needed.</cmd>
+      </step>
+      <step><cmd>Tune the next octave up by matching in sequence to overtones exactly: Cs, C#s, Ds, and so on.</cmd></step>
+      <step><cmd>Tune all the octaves going to the right, matching overtones for octaves exactly, until you reach the end of the keyboard.</cmd>
+      </step>
+      <step><cmd>Start back at Middle C and work downward in sequence: Cs, Bs, B♭s, and so on.</cmd></step>
+      <step><cmd>Tune all the octaves going to the left until you reach the end of the keyboard.</cmd>
+      </step>
+      <step><cmd>Play a favorite piece, preferably one that uses many parts of the keyboard. Adjust anything
+        that sounds funny. When you are done, enjoy the well-tuned piano!!</cmd>
+      </step>
+      <step><cmd>Replace anything in the piano that you had taken apart.</cmd>
       </step>
     </steps>
   </taskbody>

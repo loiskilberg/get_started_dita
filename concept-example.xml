@@ -9,11 +9,23 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>Tuning a Piano Introduction</title>
+  <shortdesc>You can tune a piano with just a few pieces of equipment.</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>You'll need to listen to overtones and understand octaves and chords.</p>
+    <p> We live in an imperfect world. If you tune to match perfect overtones,
+         the octaves will be out of sync.
+         There are various schemes for tuning.
+         We'll show you how to tune to a perfect fifth, then lower it very slightly so
+         that it matches all the way up and down the keyboard.
+         Bach's "Well-Tempered Clavier" showcases how the keyboard
+         can sound when tuned to sound good in every key.</p>
+    <p>At its simplest, you can tune a piano using only:
+       <ul>
+            <li>your ear</li>
+            <li>a tuning hammer</li>
+            <li>four dampening wedges</li>
+            <li>a tuning fork for C unless you have perfect pitch</li>
+       </ul></p>
   </conbody>
 </concept>
