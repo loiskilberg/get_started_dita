@@ -13,5 +13,5 @@ On 3/17/2019 as of about 1:10pm:
     for the next part of the assignment involving oXygen.
     
 Part #2: Mounting and Matting Art
-Started 3/18/2019 @8:30am. Copied these files to my local computer. Then I edited them in oXygen to turn into content about Mounting and Matting Art.
-Later I copied the files back to GitHub after completing in oXygen.
+- Started 3/18/2019 @8:30am. Copied these files to my local computer. Then I edited them in oXygen to turn into content about Mounting and Matting Art.
+- Later I copied the files back to GitHub after completing in oXygen.
